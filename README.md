@@ -1,6 +1,6 @@
 # Backend Engine — Production-Ready REST API
 
-[![CI Pipeline](https://github.com/example/backend-engine/actions/workflows/ci.yml/badge.svg)](https://github.com/example/backend-engine/actions)
+[![CI Pipeline](https://github.com/kevinpatel111/backend_engine/actions/workflows/ci.yml/badge.svg)](https://github.com/kevinpatel111/backend_engine/actions)
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.115+-009688.svg?style=flat&logo=FastAPI&logoColor=white)](https://fastapi.tiangolo.com)
 [![Python](https://img.shields.io/badge/Python-3.11+-3776AB.svg?style=flat&logo=python&logoColor=white)](https://www.python.org/)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-16+-336791.svg?style=flat&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
